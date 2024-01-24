@@ -7,6 +7,7 @@ Welcome to the Pacman Game repository! This Java-based game features an interact
 - [Introduction](#introduction)
 - [How to Play](#how-to-play)
 - [Features](#features)
+- [Video presentation](#video-presentation)
 
 ## Introduction
 
