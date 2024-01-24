@@ -36,3 +36,8 @@ The Pacman Game is a classic arcade-style game implemented in Java using JFrame.
 - Multiple lives for Pacman.
 - Ability to stop the game at any time.
 - High scores board with player nicknames and scores.
+
+## Video presentation
+
+https://github.com/yergozhin/Pacman/assets/101567490/dfa9f521-5db3-4ef7-ae35-2b2828d97374
+
