@@ -1,4 +1,4 @@
-# Pacman Game
+# Pacman Game 
 
 Welcome to the Pacman Game repository! This Java-based game features an interactive interface using JFrame and provides an engaging experience for players. Below, you'll find information on how to play and features of the game.
 
