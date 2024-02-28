@@ -8,7 +8,7 @@ public class CellRenderer extends DefaultTableCellRenderer {
     public int currY = 1;
     public boolean mouthOpen = true;
     PacmanMove pacman;
-    public boolean move = true;
+    public boolean move = true; 
     public boolean moveAutomatically = false;
     Ghost[] ghosts;
     int ind1;
