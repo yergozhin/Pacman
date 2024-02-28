@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+ 
 public class Ghost {
     List<int[]> path =  new ArrayList<>();
     int start_i;
