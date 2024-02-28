@@ -1,6 +1,6 @@
 public class GenerateBoard {
     public GenerateBoard(){
-
+ 
     }
     public void generateBoard(int[][] matrix, int i, int j, int[][] visited){
         if(i == 0 || j == 0 || i == matrix.length - 1 || j == matrix[i].length - 1 || matrix[i][j] == 0 || visited[i][j] == 1){
