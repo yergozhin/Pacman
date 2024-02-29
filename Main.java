@@ -5,4 +5,4 @@ public class Main extends JFrame {
         PacmanGameWindow pacmanGameWindow = new PacmanGameWindow();
         pacmanGameWindow.gameWindow(500,500);
     }
-}
+} 
