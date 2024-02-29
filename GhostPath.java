@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GhostPath {
-    List<int[]> path =  new ArrayList<>();
+    List<int[]> path =  new ArrayList<>(); 
     public GhostPath(int indStr_i, int indStr_j, int indEnd_i, int indEnd_j, int[][] matrix){
         MyQueue queue = new MyQueue();
         List<int[]> list2 = new ArrayList<>();
