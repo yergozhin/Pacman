@@ -3,7 +3,7 @@ import java.util.List;
 public class MyQueue {
      class Node {
         Triple data;
-        Node next = null;
+        Node next = null; 
         Node(Triple d) {
             data = d;
         }
