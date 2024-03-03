@@ -2,7 +2,7 @@ import javax.swing.table.AbstractTableModel;
 
 public class PacmanBoardModel extends AbstractTableModel {
     int rows;
-    int columns;
+    int columns; 
     Object[][] objects;
     public PacmanBoardModel(int rows, int columns,Object[][] objects){
         this.rows = rows;
