@@ -1,6 +1,6 @@
 import javax.swing.*;
 import javax.swing.table.TableColumn;
-import java.awt.*;
+import java.awt.*; 
 import java.awt.event.ComponentAdapter;
 import java.awt.event.ComponentEvent;
 
