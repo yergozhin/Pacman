@@ -1,6 +1,6 @@
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-
+ 
 public class PacmanMove implements KeyListener {
     public  int x = 0;
     public  int y = 0;
