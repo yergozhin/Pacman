@@ -4,7 +4,7 @@ import javax.swing.table.TableModel;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.Serializable;
-
+ 
 public class PacmanGameWindow extends JFrame {
     public void gameWindow(int width, int height){
         setSize(width,height);
