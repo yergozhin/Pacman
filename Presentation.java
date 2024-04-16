@@ -1,4 +1,4 @@
-public class Presentation {
+public class Presentation { 
     public static void main(String[] args) {
         //===When running the code, first you will see the window with three buttons: "New game",
         //"High scores" and "Exit"
