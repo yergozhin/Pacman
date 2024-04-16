@@ -1,7 +1,7 @@
 import javax.swing.table.AbstractTableModel;
 import java.io.*;
 
-import static java.lang.Character.isDigit;
+import static java.lang.Character.isDigit; 
 
 class SerializableModel extends AbstractTableModel implements Serializable{
     Object[][] objects;
